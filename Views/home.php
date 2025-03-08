@@ -1,3 +1,10 @@
+<?php
+//エラー表示あり
+ini_set('display_errors',1);
+echo $test;
+
+?>
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
